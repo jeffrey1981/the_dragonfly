@@ -1,5 +1,43 @@
 body {
+  font-family: Arial, sans-serif;
   margin: 0;
-  box-sizing: border-box;
-  background-color: red;
+  padding: 0;
+}
+
+header,
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.insect-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.insect-tile {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.insect-tile img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.insect-tile h2 {
+  margin: 10px 0;
+}
+
+.insect-tile ul {
+  list-style-type: none;
+  padding: 0;
 }

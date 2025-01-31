@@ -1,0 +1,21 @@
+{
+  "insects": [
+    {
+      "name": "Western Tiger Swallowtail",
+      "scientific_name": "Papilio rutulus",
+      "category": "Butterfly",
+      "facts": [
+        "Commonly found along rivers and in canyons.",
+        "Adults feed on nectar from flowers."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/1600px-Coccinella-septempunctata-15-fws.jpg"
+    },
+    {
+      "name": "California Sister",
+      "scientific_name": "Adelpha californica",
+      "category": "Butterfly",
+      "facts": ["Found in oak woodlands.", "Feeds on oak tree sap."],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/1600px-Coccinella-septempunctata-15-fws.jpg"
+    }
+  ]
+}
