@@ -1,14 +1,13 @@
 {
   "insects": [
     {
-      "name": "Western Tiger Swallowtail",
-      "scientific_name": "Papilio rutulus",
-      "category": "Butterfly",
+      "name": "Ringed boghaunter",
+      "scientific_name": "Williamsonia lintneri",
+      "category": "Dragonfly",
       "facts": [
-        "Commonly found along rivers and in canyons.",
-        "Adults feed on nectar from flowers."
+        "Ringed boghaunters breed in open, acidic wetlands with standing water and so-called soupy-sphagnum"
       ],
-      "image": ""
+      "image": "https://www.seacoastonline.com/gcdn/presto/2023/05/15/NPOH/21fc1a62-05fb-4e15-a439-700a9c02990d-ringed_boghaunter_John_Branagan.jpg?width=1320&height=1320&fit=crop&format=pjpg&auto=webp"
     },
     {
       "name": "California Sister",
@@ -35,7 +34,7 @@
         "Has vibrant blue coloration.",
         "Perches with its wings forward."
       ],
-      "image": ""
+      "image": "https://portroyalsoundfoundation.org/wp-content/uploads/2024/02/Blue_dasher_dragonfly1-scaled-1.jpeg"
     },
     {
       "name": "Eastern Pondhawk",

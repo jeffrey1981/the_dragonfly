@@ -41,3 +41,31 @@ footer {
   list-style-type: none;
   padding: 0;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+.logo img {
+  height: 50px;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+.nav-links .search-icon::before {
+  content: '\1F50D'; /* Unicode for magnifying glass */
+  font-size: 20px;
+}
