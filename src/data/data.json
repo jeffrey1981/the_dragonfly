@@ -8,14 +8,254 @@
         "Commonly found along rivers and in canyons.",
         "Adults feed on nectar from flowers."
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/1600px-Coccinella-septempunctata-15-fws.jpg"
+      "image": ""
     },
     {
       "name": "California Sister",
       "scientific_name": "Adelpha californica",
       "category": "Butterfly",
       "facts": ["Found in oak woodlands.", "Feeds on oak tree sap."],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/1600px-Coccinella-septempunctata-15-fws.jpg"
+      "image": ""
+    },
+    {
+      "name": "Common Green Darner",
+      "scientific_name": "Anax junius",
+      "category": "Dragonfly",
+      "facts": [
+        "Known for its bright green thorax.",
+        "Often seen in large swarms."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Blue Dasher",
+      "scientific_name": "Pachydiplax longipennis",
+      "category": "Dragonfly",
+      "facts": [
+        "Has vibrant blue coloration.",
+        "Perches with its wings forward."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Eastern Pondhawk",
+      "scientific_name": "Erythemis simplicicollis",
+      "category": "Dragonfly",
+      "facts": [
+        "Females are bright green, males are blue.",
+        "Commonly found near ponds and lakes."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Halloween Pennant",
+      "scientific_name": "Celithemis eponina",
+      "category": "Dragonfly",
+      "facts": [
+        "Named for its orange and black wings.",
+        "Often seen perched on grass stems."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Twelve-Spotted Skimmer",
+      "scientific_name": "Libellula pulchella",
+      "category": "Dragonfly",
+      "facts": [
+        "Recognizable by its twelve black spots on its wings.",
+        "Males have white spots between the black spots."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Widow Skimmer",
+      "scientific_name": "Libellula luctuosa",
+      "category": "Dragonfly",
+      "facts": [
+        "Males have a distinctive white and black pattern.",
+        "Females are more subdued in coloration."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Common Whitetail",
+      "scientific_name": "Plathemis lydia",
+      "category": "Dragonfly",
+      "facts": [
+        "Males have a white body, females have a brown body.",
+        "Both sexes have dark bands on their wings."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Black Saddlebags",
+      "scientific_name": "Tramea lacerata",
+      "category": "Dragonfly",
+      "facts": [
+        "Named for the black patches on its wings.",
+        "Often seen gliding over ponds and marshes."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Carolina Saddlebags",
+      "scientific_name": "Tramea carolina",
+      "category": "Dragonfly",
+      "facts": [
+        "Has red patches on its wings resembling saddlebags.",
+        "Commonly found in the southeastern United States."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Eastern Amberwing",
+      "scientific_name": "Perithemis tenera",
+      "category": "Dragonfly",
+      "facts": [
+        "Small dragonfly with amber-colored wings.",
+        "Often found near still or slow-moving water."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Banded Pennant",
+      "scientific_name": "Celithemis fasciata",
+      "category": "Dragonfly",
+      "facts": [
+        "Has distinctive black bands on its wings.",
+        "Males and females look similar."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Calico Pennant",
+      "scientific_name": "Celithemis elisa",
+      "category": "Dragonfly",
+      "facts": [
+        "Known for its red or yellow spots on the wings.",
+        "Commonly found in meadows and fields."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Four-Spotted Skimmer",
+      "scientific_name": "Libellula quadrimaculata",
+      "category": "Dragonfly",
+      "facts": [
+        "Has four distinct spots on its wings.",
+        "Found in both North America and Europe."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Great Blue Skimmer",
+      "scientific_name": "Libellula vibrans",
+      "category": "Dragonfly",
+      "facts": [
+        "One of the largest skimmers in North America.",
+        "Males have a powdery blue body."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Painted Skimmer",
+      "scientific_name": "Libellula semifasciata",
+      "category": "Dragonfly",
+      "facts": [
+        "Wings have amber patches and brown stripes.",
+        "Commonly seen in spring and early summer."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Roseate Skimmer",
+      "scientific_name": "Orthemis ferruginea",
+      "category": "Dragonfly",
+      "facts": [
+        "Males are bright pink, females are brownish.",
+        "Found near ponds, lakes, and slow streams."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ruby Meadowhawk",
+      "scientific_name": "Sympetrum rubicundulum",
+      "category": "Dragonfly",
+      "facts": [
+        "Males are bright red, females are yellowish.",
+        "Commonly found in meadows and fields."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Autumn Meadowhawk",
+      "scientific_name": "Sympetrum vicinum",
+      "category": "Dragonfly",
+      "facts": [
+        "Active late into the autumn.",
+        "Males are red, females are brownish."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Blue Corporal",
+      "scientific_name": "Ladona deplanata",
+      "category": "Dragonfly",
+      "facts": [
+        "Males are powdery blue, females are brown.",
+        "Often seen basking on the ground or on vegetation."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Chalk-fronted Corporal",
+      "scientific_name": "Ladona julia",
+      "category": "Dragonfly",
+      "facts": [
+        "Has chalky white front and black abdomen.",
+        "Commonly found in northern North America."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Dot-tailed Whiteface",
+      "scientific_name": "Leucorrhinia intacta",
+      "category": "Dragonfly",
+      "facts": [
+        "Has a white face and a small yellow spot near the end of the abdomen.",
+        "Found in ponds, lakes, and bogs."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Frosted Whiteface",
+      "scientific_name": "Leucorrhinia frigida",
+      "category": "Dragonfly",
+      "facts": [
+        "Has a frosted white face and black body.",
+        "Found in northern bogs and marshes."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Hudsonian Whiteface",
+      "scientific_name": "Leucorrhinia hudsonica",
+      "category": "Dragonfly",
+      "facts": [
+        "Has a white face and black body with red spots.",
+        "Found in northern North America."
+      ],
+      "image": ""
+    },
+    {
+      "name": "Spangled Skimmer",
+      "scientific_name": "Libellula cyanea",
+      "category": "Dragonfly",
+      "facts": [
+        "Males are blue, females are brown.",
+        "Has distinctive white and black spots on the wing tips."
+      ],
+      "image": ""
     }
   ]
 }
