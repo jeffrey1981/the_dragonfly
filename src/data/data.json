@@ -147,16 +147,6 @@
       "image": "https://www.pugetsound.edu/sites/default/files/inline-images/9505_LibquaMT97-56.jpg"
     },
     {
-      "name": "Great Blue Skimmer",
-      "scientific_name": "Libellula vibrans",
-      "origin": "North America",
-      "facts": [
-        "One of the largest skimmers in North America.",
-        "Males have a powdery blue body."
-      ],
-      "image": ""
-    },
-    {
       "name": "Painted Skimmer",
       "scientific_name": "Libellula semifasciata",
       "origin": "North America",
@@ -164,7 +154,7 @@
         "Wings have amber patches and brown stripes.",
         "Commonly seen in spring and early summer."
       ],
-      "image": ""
+      "image": "https://auth1.dpr.ncparks.gov/odes/photos/108/4226.jpg"
     },
     {
       "name": "Roseate Skimmer",
@@ -174,7 +164,7 @@
         "Males are bright pink, females are brownish.",
         "Found near ponds, lakes, and slow streams."
       ],
-      "image": ""
+      "image": "https://edge-essence.com/wp-content/uploads/2024/08/i-roseate-skimmer-for-cafe.jpg"
     },
     {
       "name": "Ruby Meadowhawk",
@@ -184,7 +174,7 @@
         "Males are bright red, females are yellowish.",
         "Commonly found in meadows and fields."
       ],
-      "image": ""
+      "image": "https://chadkphotography.com/wp-content/uploads/2024/08/Ruby-Meadowhawk-Chad-Kettlewell-Photography-23.jpg"
     },
     {
       "name": "Autumn Meadowhawk",
@@ -194,7 +184,7 @@
         "Active late into the autumn.",
         "Males are red, females are brownish."
       ],
-      "image": ""
+      "image": "https://wiatri.net/inventory/odonata/speciesaccounts/BigImages/Skimmers/AutumnMeadowhawk9.jpg"
     },
     {
       "name": "Blue Corporal",
@@ -204,7 +194,7 @@
         "Males are powdery blue, females are brown.",
         "Often seen basking on the ground or on vegetation."
       ],
-      "image": ""
+      "image": "https://www.jeffpippen.com/dragonflies/bluecorporal190428-3223sglz.jpg"
     },
     {
       "name": "Chalk-fronted Corporal",
@@ -214,7 +204,7 @@
         "Has chalky white front and black abdomen.",
         "Commonly found in northern North America."
       ],
-      "image": ""
+      "image": "https://www.pugetsound.edu/sites/default/files/2023-03/9471_LibjulMT97-57.jpg"
     },
     {
       "name": "Dot-tailed Whiteface",
@@ -224,7 +214,7 @@
         "Has a white face and a small yellow spot near the end of the abdomen.",
         "Found in ponds, lakes, and bogs."
       ],
-      "image": ""
+      "image": "https://uwm.edu/field-station/wp-content/uploads/sites/380/2016/12/500x700.jpg"
     },
     {
       "name": "Frosted Whiteface",
@@ -234,7 +224,7 @@
         "Has a frosted white face and black body.",
         "Found in northern bogs and marshes."
       ],
-      "image": ""
+      "image": "https://val.vtecostudies.org/wp-content/uploads/2015/11/leucorrhinia-frigida-me-9jul2015.jpg"
     },
     {
       "name": "Hudsonian Whiteface",
@@ -244,7 +234,7 @@
         "Has a white face and black body with red spots.",
         "Found in northern North America."
       ],
-      "image": ""
+      "image": "https://wiatri.net/inventory/odonata/speciesaccounts/BigImages/Skimmers/HudsonWhiteface1.jpg"
     },
     {
       "name": "Spangled Skimmer",
@@ -254,7 +244,7 @@
         "Males are blue, females are brown.",
         "Has distinctive white and black spots on the wing tips."
       ],
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Spangled_Skimmer_-_Libellula_cyanea%2C_Mason_Neck_West%2C_Mason_Neck%2C_Virginia_-_27244000450.jpg/2560px-Spangled_Skimmer_-_Libellula_cyanea%2C_Mason_Neck_West%2C_Mason_Neck%2C_Virginia_-_27244000450.jpg"
     }
   ]
 }
