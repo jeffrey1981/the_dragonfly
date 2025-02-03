@@ -8,7 +8,7 @@ const InsectTile = ({ insect }) => {
       <p>
         <em>{insect.scientific_name}</em>
       </p>
-      <p>Category: {insect.category}</p>
+      <p>Origin: {insect.origin}</p>
       <ul>
         {insect.facts.map((fact, index) => (
           <li key={index}>{fact}</li>

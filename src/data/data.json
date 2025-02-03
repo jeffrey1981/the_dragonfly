@@ -3,33 +3,33 @@
     {
       "name": "Ringed boghaunter",
       "scientific_name": "Williamsonia lintneri",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Ringed boghaunters breed in open, acidic wetlands with standing water and so-called soupy-sphagnum"
       ],
       "image": "https://www.seacoastonline.com/gcdn/presto/2023/05/15/NPOH/21fc1a62-05fb-4e15-a439-700a9c02990d-ringed_boghaunter_John_Branagan.jpg?width=1320&height=1320&fit=crop&format=pjpg&auto=webp"
     },
     {
-      "name": "California Sister",
-      "scientific_name": "Adelpha californica",
-      "category": "Butterfly",
+      "name": "Butterfly Dragonfly",
+      "scientific_name": "Rhyothemis fuliginosaa",
+      "origin": "Asia",
       "facts": ["Found in oak woodlands.", "Feeds on oak tree sap."],
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rhyothemis_fuliginosa.JPG/1920px-Rhyothemis_fuliginosa.JPG"
     },
     {
       "name": "Common Green Darner",
       "scientific_name": "Anax junius",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Known for its bright green thorax.",
         "Often seen in large swarms."
       ],
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Anax_junius.JPG"
     },
     {
       "name": "Blue Dasher",
       "scientific_name": "Pachydiplax longipennis",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has vibrant blue coloration.",
         "Perches with its wings forward."
@@ -39,17 +39,17 @@
     {
       "name": "Eastern Pondhawk",
       "scientific_name": "Erythemis simplicicollis",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Females are bright green, males are blue.",
         "Commonly found near ponds and lakes."
       ],
-      "image": ""
+      "image": "https://www.nps.gov/miss/learn/nature/images/20170727-4972.jpg?maxwidth=650&autorotate=false&quality=78&format=webp"
     },
     {
       "name": "Halloween Pennant",
       "scientific_name": "Celithemis eponina",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Named for its orange and black wings.",
         "Often seen perched on grass stems."
@@ -59,7 +59,7 @@
     {
       "name": "Twelve-Spotted Skimmer",
       "scientific_name": "Libellula pulchella",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Recognizable by its twelve black spots on its wings.",
         "Males have white spots between the black spots."
@@ -69,7 +69,7 @@
     {
       "name": "Widow Skimmer",
       "scientific_name": "Libellula luctuosa",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males have a distinctive white and black pattern.",
         "Females are more subdued in coloration."
@@ -79,7 +79,7 @@
     {
       "name": "Common Whitetail",
       "scientific_name": "Plathemis lydia",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males have a white body, females have a brown body.",
         "Both sexes have dark bands on their wings."
@@ -89,7 +89,7 @@
     {
       "name": "Black Saddlebags",
       "scientific_name": "Tramea lacerata",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Named for the black patches on its wings.",
         "Often seen gliding over ponds and marshes."
@@ -99,7 +99,7 @@
     {
       "name": "Carolina Saddlebags",
       "scientific_name": "Tramea carolina",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has red patches on its wings resembling saddlebags.",
         "Commonly found in the southeastern United States."
@@ -109,7 +109,7 @@
     {
       "name": "Eastern Amberwing",
       "scientific_name": "Perithemis tenera",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Small dragonfly with amber-colored wings.",
         "Often found near still or slow-moving water."
@@ -119,7 +119,7 @@
     {
       "name": "Banded Pennant",
       "scientific_name": "Celithemis fasciata",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has distinctive black bands on its wings.",
         "Males and females look similar."
@@ -129,7 +129,7 @@
     {
       "name": "Calico Pennant",
       "scientific_name": "Celithemis elisa",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Known for its red or yellow spots on the wings.",
         "Commonly found in meadows and fields."
@@ -139,7 +139,7 @@
     {
       "name": "Four-Spotted Skimmer",
       "scientific_name": "Libellula quadrimaculata",
-      "category": "Dragonfly",
+      "origin": "North America and Europe",
       "facts": [
         "Has four distinct spots on its wings.",
         "Found in both North America and Europe."
@@ -149,7 +149,7 @@
     {
       "name": "Great Blue Skimmer",
       "scientific_name": "Libellula vibrans",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "One of the largest skimmers in North America.",
         "Males have a powdery blue body."
@@ -159,7 +159,7 @@
     {
       "name": "Painted Skimmer",
       "scientific_name": "Libellula semifasciata",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Wings have amber patches and brown stripes.",
         "Commonly seen in spring and early summer."
@@ -169,7 +169,7 @@
     {
       "name": "Roseate Skimmer",
       "scientific_name": "Orthemis ferruginea",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males are bright pink, females are brownish.",
         "Found near ponds, lakes, and slow streams."
@@ -179,7 +179,7 @@
     {
       "name": "Ruby Meadowhawk",
       "scientific_name": "Sympetrum rubicundulum",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males are bright red, females are yellowish.",
         "Commonly found in meadows and fields."
@@ -189,7 +189,7 @@
     {
       "name": "Autumn Meadowhawk",
       "scientific_name": "Sympetrum vicinum",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Active late into the autumn.",
         "Males are red, females are brownish."
@@ -199,7 +199,7 @@
     {
       "name": "Blue Corporal",
       "scientific_name": "Ladona deplanata",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males are powdery blue, females are brown.",
         "Often seen basking on the ground or on vegetation."
@@ -209,7 +209,7 @@
     {
       "name": "Chalk-fronted Corporal",
       "scientific_name": "Ladona julia",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has chalky white front and black abdomen.",
         "Commonly found in northern North America."
@@ -219,7 +219,7 @@
     {
       "name": "Dot-tailed Whiteface",
       "scientific_name": "Leucorrhinia intacta",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has a white face and a small yellow spot near the end of the abdomen.",
         "Found in ponds, lakes, and bogs."
@@ -229,7 +229,7 @@
     {
       "name": "Frosted Whiteface",
       "scientific_name": "Leucorrhinia frigida",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has a frosted white face and black body.",
         "Found in northern bogs and marshes."
@@ -239,7 +239,7 @@
     {
       "name": "Hudsonian Whiteface",
       "scientific_name": "Leucorrhinia hudsonica",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Has a white face and black body with red spots.",
         "Found in northern North America."
@@ -249,7 +249,7 @@
     {
       "name": "Spangled Skimmer",
       "scientific_name": "Libellula cyanea",
-      "category": "Dragonfly",
+      "origin": "North America",
       "facts": [
         "Males are blue, females are brown.",
         "Has distinctive white and black spots on the wing tips."
